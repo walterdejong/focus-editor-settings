@@ -1,0 +1,92 @@
+[2]  # Version number. Do not delete.
+
+[colors]
+#background0:                            15212AFF
+#background1:                            10191FFF
+#background2:                            18262FFF
+#background3:                            1A2831FF
+#background4:                            21333FFF
+background0:                            f8f8f8FF
+background1:                            808080FF
+background2:                            ff0000FF
+background3:                            e7e7e7FF
+background4:                            00c0c0FF
+#selection_active:                       1C4449FF
+#selection_inactive:                     1C44497F
+#selection_highlight:                    FCEDFC26
+selection_active:                       c0e0eeFF
+selection_inactive:                     eeeeeeff
+selection_highlight:                    eeeeeeff
+#search_result_active:                   8E772EFF
+#search_result_inactive:                 FCEDFC26
+search_result_active:                   c0e0eeFF
+search_result_inactive:                 ddddddff
+#scrollbar:                              33CCCC19
+scrollbar:                              d0d0d0FF
+scrollbar_hover:                        33CCCC4C
+scrollbar_background:                   10191F4C
+#cursor:                                 26B2B2FF
+#cursor_inactive:                        196666FF
+cursor:                                 00e000FF
+cursor_inactive:                        196666FF
+paste_animation:                        1C4449FF
+#splitter:                               21333FFF
+#splitter_hover:                         1C4449FF
+splitter:                               d0d0d0FF
+splitter_hover:                         808080FF
+letter_highlight:                       599999FF
+list_cursor_lite:                       33CCCC19
+list_cursor:                            33CCCC4C
+shadow_dark:                            0E161C00
+shadow_transparent:                     0E161C00
+text_input_label:                       3B4450FF
+#char_under_cursor:                      FFFFFFFF
+char_under_cursor:                      000000FF
+
+#ui_default:                             BFC9DBFF
+#ui_dim:                                 87919DFF
+#ui_neutral:                             4C4C4CFF
+#ui_warning:                             F8AD34FF
+#ui_warning_dim:                         986032FF
+#ui_error:                               772222FF
+#ui_error_bright:                        FF0000FF
+#ui_success:                             227722FF
+
+#ui_default:                             101010FF
+#ui_dim:                                 505050FF
+#ui_neutral:                             a0a0a0FF
+ui_default:                             000000FF
+ui_dim:                                 404040FF
+ui_neutral:                             000000FF
+ui_warning:                             000000FF
+ui_warning_dim:                         aaaa00FF
+ui_error:                               772222FF
+ui_error_bright:                        FF0000FF
+ui_success:                             227722FF
+
+code_default:                           000000FF
+code_comment:                           006600FF
+code_keyword:                           990000FF
+code_type:                              990000FF
+code_function:                          000000FF
+code_punctuation:                       000000FF
+code_operation:                         990000FF
+code_string:                            0033aaFF
+code_value:                             006600FF
+code_highlight:                         D89B75FF
+code_error:                             FF0000FF
+code_warning:                           E4D97DFF
+
+region_scope_export:                    15212AFF
+region_scope_file:                      131C22FF
+region_scope_module:                    1A2831FF
+region_header:                          1A5152FF
+region_success:                         226022FF
+region_warning:                         986032FF
+region_error:                           772222FF
+
+build_panel_background:                 1A2831FF
+build_panel_scrollbar:                  33CCCC19
+build_panel_scrollbar_hover:            33CCCC4C
+build_panel_scrollbar_background:       10191F4C
+build_panel_title_bar:                  1C303AFF
